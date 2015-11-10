@@ -1,2 +1,2 @@
-# pybr11
+# Python Brasil 11
 Códigos da apresentação na Python Brasil 11: Bioinformática com Biopython
